@@ -1,4 +1,4 @@
-#+OPTION: ^:nil
+#+OPTIONS: ^:nil
 
 * Golang 学习例子
 
