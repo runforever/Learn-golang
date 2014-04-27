@@ -4,3 +4,6 @@
 
 ** OOP学习
 dir： learn_oop \\
+
+** goroutines学习
+dir： learn_goroutines

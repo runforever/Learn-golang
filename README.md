@@ -5,6 +5,7 @@
 <li><a href="#sec-1">1. Golang 学习例子</a>
 <ul>
 <li><a href="#sec-1-1">1.1. OOP学习</a></li>
+<li><a href="#sec-1-2">1.2. goroutines学习</a></li>
 </ul>
 </li>
 </ul>
@@ -16,4 +17,8 @@
 
 ## OOP学习
 
-dir： learn\_oop
+dir： learn\_oop   
+
+## goroutines学习
+
+dir： learn\_goroutines
