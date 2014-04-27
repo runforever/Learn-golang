@@ -1,4 +1,6 @@
+#+OPTION: ^:nil
+
 * Golang 学习例子
 
 ** OOP学习
-dir： learn_oop\\
+dir： learn_oop \\
